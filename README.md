@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">» Name: <b>Daniel</b> « <br> » Nickname: <b>Danek309044</b> « <br> » Country: <b>Czech Republic</b> « <br> » Projects count: <b>13</b> «</p>
+<p align="center">» Name: <b>Daniel</b> « <br> » Nickname: <b>Danek309044</b> « <br> » Country: <b>Czech Republic</b> « <br></p>
 
 ###
 
